@@ -1,7 +1,5 @@
 # Deploy-a-High-Availability-Website
-This project is developed as part of the Udacity Advanced Cloud DevOps Nanodegree. It is the second project and it is intended to teach Infrastructure as Code.
-
-![Infrastructure Diagram](/Udacity_Project2.jpeg)
+![Infrastructure Diagram](/cloud-diagram.jpeg)
 
 ## Project Structure
 - Diagram that shows the infrastructure/solution to deploy a high availability website

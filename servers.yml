@@ -1,5 +1,5 @@
 Description:
-  Eman Sami | Udacity Nanodegree Project 2 2022
+  Eman Sami | 2 2022
   This file defines various resources, such as security groups, an autoscaling group, launch config, target group, 
   load balancer, and listener
 Parameters:
@@ -57,7 +57,7 @@ Resources:
           sudo apt-get install apache2 -y
           sudo systemctl  start apache2.service
           cd /var/www/html
-          echo "it works! Udagram, Udacity" > index.html
+          echo "it works!" > index.html
       ImageId: ami-061dbd1209944525c
       SecurityGroups:
       - Ref: WebServerSecurityGroup
